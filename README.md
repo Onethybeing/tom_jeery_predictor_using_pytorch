@@ -1,5 +1,5 @@
 # Tom & Jerry Image Classifier
-<img width="238" height="136" alt="image" src="https://github.com/user-attachments/assets/aadc9f40-94a2-443e-8540-b1cf2fd0ce90" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/aadc9f40-94a2-443e-8540-b1cf2fd0ce90" />
 
 A PyTorch-based image classification project to detect characters from the "Tom and Jerry" cartoon. This model identifies whether an image contains Tom, Jerry, both, or neither.
 
