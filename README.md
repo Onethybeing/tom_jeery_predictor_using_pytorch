@@ -3,6 +3,10 @@
 
 A PyTorch-based image classification project to detect characters from the "Tom and Jerry" cartoon. This model identifies whether an image contains Tom, Jerry, both, or neither.
 
+
+https://github.com/user-attachments/assets/567a884b-c02f-4b11-9d0d-6b60655e7623
+
+
 -----
 
 ## Table of Contents
